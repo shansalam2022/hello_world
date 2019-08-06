@@ -1,4 +1,4 @@
 # hello_world
 
 hello...
-i am rahul. i live in kerala.i have done my B-Tech in computer science engineering.
+  I am Rahul. I live in kerala.i have done my B-Tech computer science engineering in cusat.
